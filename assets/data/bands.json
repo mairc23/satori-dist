@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Touche Amoré",
+        "coverLive": "assets/images/bands/touche-amore/touche-amore-live.jpeg",
+        "genres": ["Post-Hardc,ore", "Alternative Rock", "Screamo"],
+        "albums": []
+    },
+    {
+        "name": "TTNG",
+        "coverLive": "assets/images/bands/ttng/ttng-live.jpg",
+        "genres": ["Alternative Rock", "Math Rock", "Indie"],
+        "albums": []
+    },
+    {
+        "name": "Silverstein",
+        "coverLive": "assets/images/bands/silverstein/silverstein-live.png",
+        "genres": ["", "", ""],
+        "albums": []
+    },
+    {
+        "name": "Toe",
+        "coverLive": "assets/images/bands/toe/toe-live.jpg",
+        "genres": ["", "", ""],
+        "albums": []
+    },
+    {
+        "name": "Underoath",
+        "coverLive": "assets/images/bands/underoath/underoath-live.jpg",
+        "genres": ["", "", ""],
+        "albums": []
+    },
+    {
+        "name": "Polyphia",
+        "coverLive": "assets/images/bands/polyphia/polyphia-live.png",
+        "genres": ["", "", ""],
+        "albums": []
+    },
+    {
+        "name": "",
+        "coverLive": "assets/images/bands//-live.",
+        "genres": ["", "", ""],
+        "albums": []
+    }
+]
